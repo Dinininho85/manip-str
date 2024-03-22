@@ -1,0 +1,25 @@
+{
+  "name": "manip-str",
+  "version": "1.0.0",
+  "description": "API para manipulação de strings, incluindo verificação de palíndromos e contagem de ocorrências de caracteres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "API",
+    "manipulação de strings",
+    "palíndromos",
+    "contagem de caracteres",
+    "Node.js"
+  ],
+  "author": "Seu Nome <seu_email@dominio.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "files": [
+    "**/*.js",
+    "test/*.js"
+  ]
+}
